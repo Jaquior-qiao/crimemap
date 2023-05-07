@@ -1,0 +1,4 @@
+dbconfig.py
+*.pyc
+.idea
+__pycache__
